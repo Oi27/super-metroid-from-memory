@@ -2827,19 +2827,19 @@
           <type>C848</type>
           <x>01</x>
           <y>26</y>
-          <arg>1002</arg>
+          <arg>1000</arg>
         </PLM>
         <PLM>
           <type>C842</type>
           <x>8E</x>
           <y>46</y>
-          <arg>1003</arg>
+          <arg>1001</arg>
         </PLM>
         <PLM>
           <type>C842</type>
           <x>8E</x>
           <y>16</y>
-          <arg>1004</arg>
+          <arg>1002</arg>
         </PLM>
         <PLM>
           <type>B63B</type>
@@ -5423,13 +5423,13 @@
           <type>C872</type>
           <x>8E</x>
           <y>46</y>
-          <arg>0000</arg>
+          <arg>0003</arg>
         </PLM>
         <PLM>
           <type>C85A</type>
           <x>8E</x>
           <y>16</y>
-          <arg>0001</arg>
+          <arg>0004</arg>
         </PLM>
         <PLM>
           <type>B63B</type>
@@ -8014,13 +8014,13 @@
           <type>C872</type>
           <x>8E</x>
           <y>46</y>
-          <arg>0000</arg>
+          <arg>0003</arg>
         </PLM>
         <PLM>
           <type>C85A</type>
           <x>8E</x>
           <y>16</y>
-          <arg>0001</arg>
+          <arg>0004</arg>
         </PLM>
         <PLM>
           <type>B63B</type>
@@ -10578,13 +10578,13 @@
           <type>C872</type>
           <x>8E</x>
           <y>46</y>
-          <arg>0000</arg>
+          <arg>0003</arg>
         </PLM>
         <PLM>
           <type>C85A</type>
           <x>8E</x>
           <y>16</y>
-          <arg>0001</arg>
+          <arg>0004</arg>
         </PLM>
         <PLM>
           <type>B703</type>

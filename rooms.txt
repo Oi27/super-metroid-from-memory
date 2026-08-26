@@ -6,3 +6,4 @@ fly bombway
 bomb torizo room
 map flyway
 crateria map room
+crateria save room

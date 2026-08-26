@@ -2,8 +2,8 @@
   <Saves />
   <index>03</index>
   <area>00</area>
-  <x>00</x>
-  <y>00</y>
+  <x>19</x>
+  <y>06</y>
   <width>01</width>
   <height>01</height>
   <upscroll>70</upscroll>
@@ -138,7 +138,7 @@
           <type>BAF4</type>
           <x>01</x>
           <y>06</y>
-          <arg>0805</arg>
+          <arg>0808</arg>
         </PLM>
         <PLM>
           <type>EF3B</type>
