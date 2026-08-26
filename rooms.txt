@@ -2,3 +2,7 @@ neen: ==========================================================================
 
 landing site
 parlor
+fly bombway
+bomb torizo room
+map flyway
+crateria map room
