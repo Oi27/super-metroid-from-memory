@@ -8,12 +8,12 @@ started:
     map flyway
     crateria map room
     crateria save room
+    terminator
     
 not started:
     230 missile hallway
     230 missile room
     climb
-    terminator
     green pirate shaft
     lower mushrooms
     g4 hallway
