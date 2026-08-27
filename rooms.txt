@@ -15,3 +15,8 @@ crateria save room
 - Three Green Kihunters
 - Crateria Elevator to Red Brinstar
 - Red Brinstar Elevator to Crateria
+
+
+=== artee
+
+- Landing Site Power Bomb Room
