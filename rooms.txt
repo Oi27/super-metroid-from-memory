@@ -9,12 +9,12 @@ started:
     crateria map room
     crateria save room
     terminator
+    green pirate shaft
     
 not started:
     230 missile hallway
     230 missile room
     climb
-    green pirate shaft
     lower mushrooms
     g4 hallway
     
