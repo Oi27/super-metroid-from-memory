@@ -7,6 +7,8 @@ bomb torizo room
 map flyway
 crateria map room
 crateria save room
+terminator
+green pirate shaft
 
 
 === yuriks
