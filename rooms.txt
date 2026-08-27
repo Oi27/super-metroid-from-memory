@@ -1,23 +1,17 @@
 neen: ======================================================================================
 
-started:
-    landing site
-    parlor
-    fly bombway
-    bomb torizo room
-    map flyway
-    crateria map room
-    crateria save room
-    terminator
-    
-not started:
-    230 missile hallway
-    230 missile room
-    climb
-    green pirate shaft
-    lower mushrooms
-    g4 hallway
-    
-    
-xxxx: ======================================================================================
-;next person
+landing site
+parlor
+fly bombway
+bomb torizo room
+map flyway
+crateria map room
+crateria save room
+
+
+=== yuriks
+
+- Crateria Tube (right of Landing Site)
+- Three Green Kihunters
+- Crateria Elevator to Red Brinstar
+- Red Brinstar Elevator to Crateria
