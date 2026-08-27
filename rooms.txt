@@ -7,3 +7,11 @@ bomb torizo room
 map flyway
 crateria map room
 crateria save room
+
+
+=== yuriks
+
+- Crateria Tube (right of Landing Site)
+- Three Green Kihunters
+- Crateria Elevator to Red Brinstar
+- Red Brinstar Elevator to Crateria
