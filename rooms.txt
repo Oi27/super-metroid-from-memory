@@ -10,7 +10,9 @@ crateria save room
 terminator
 green pirate shaft
 lower mushrooms
-elevator from crateria to green brin
+elevator to green brin
+climb
+old mb room
 
 
 === yuriks
