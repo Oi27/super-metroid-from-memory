@@ -68,12 +68,23 @@
     <Door>
       <toroom area="00" index="09" />
       <bitflag>00</bitflag>
-      <direction>00</direction>
-      <tilex>0</tilex>
-      <tiley>0</tiley>
-      <screenx>00</screenx>
+      <direction>06</direction>
+      <tilex>6</tilex>
+      <tiley>2</tiley>
+      <screenx>01</screenx>
       <screeny>00</screeny>
-      <distance>8000</distance>
+      <distance>01C0</distance>
+      <doorcode>0000</doorcode>
+    </Door>
+    <Door>
+      <toroom area="00" index="09" />
+      <bitflag>00</bitflag>
+      <direction>06</direction>
+      <tilex>6</tilex>
+      <tiley>2</tiley>
+      <screenx>01</screenx>
+      <screeny>00</screeny>
+      <distance>01C0</distance>
       <doorcode>0000</doorcode>
     </Door>
   </Doors>
@@ -747,7 +758,7 @@
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 42 FF FE FD 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-        00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+        00 00 00 00 00 00 06 06 06 06 00 00 00 00 00 00
       </Screen>
           <Screen X="2" Y="3">
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -873,8 +884,8 @@
         </PLM>
         <PLM>
           <type>C890</type>
-          <x>04</x>
-          <y>23</y>
+          <x>08</x>
+          <y>26</y>
           <arg>0005</arg>
         </PLM>
         <PLM>
