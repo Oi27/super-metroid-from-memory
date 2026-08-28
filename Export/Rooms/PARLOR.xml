@@ -76,6 +76,17 @@
       <distance>01C0</distance>
       <doorcode>0000</doorcode>
     </Door>
+    <Door>
+      <toroom area="00" index="09" />
+      <bitflag>00</bitflag>
+      <direction>06</direction>
+      <tilex>6</tilex>
+      <tiley>2</tiley>
+      <screenx>01</screenx>
+      <screeny>00</screeny>
+      <distance>01C0</distance>
+      <doorcode>0000</doorcode>
+    </Door>
   </Doors>
   <States>
     <State condition="default">
@@ -747,7 +758,7 @@
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 42 FF FE FD 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-        00 00 00 00 00 00 05 05 05 05 00 00 00 00 00 00
+        00 00 00 00 00 00 06 06 06 06 00 00 00 00 00 00
       </Screen>
           <Screen X="2" Y="3">
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
