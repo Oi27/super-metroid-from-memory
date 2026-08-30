@@ -17,11 +17,14 @@ old mb room
 
 === yuriks
 
-- Crateria Tube (right of Landing Site)
-- Three Green Kihunters
-- Crateria Elevator to Red Brinstar
-- Red Brinstar Elevator to Crateria
-
+- Crateria:
+  - Crateria Tube (right of Landing Site)
+  - Three Green Kihunters
+  - Crateria Elevator to Red Brinstar
+- Brinstar:
+  - Red Brinstar Elevator to Crateria
+- Norfair:
+  - Pre-Cathedral
 
 === artee
 
