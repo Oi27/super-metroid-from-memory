@@ -132,8 +132,8 @@
         8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111
         8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111
         8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8D14 890F
-        8111 8111 8111 8D14 890F 890F 890F 890F 890F 890F 890F 890F 190F 190F 1D0E 00FF
-        8111 8111 8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF
+        8111 8111 8111 8D14 890F 890F 890F 890F 890F 8914 8111 8111 1D14 190F 1D0E 00FF
+        8111 8111 8111 8510 00FF 00FF 00FF 00FF 00FF 190E 190F 190F 1D0E 00FF 00FF 00FF
         190F 190F 190F 1D0E 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF
         00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF
         00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF
@@ -155,7 +155,7 @@
         00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF
         00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF
         00FF 00FF 00FF 00FF 00FF 00FF 110E 110F 110F 810F 810F 110F 110F 150E 00FF 00FF
-        00FF 00FF 00FF 00FF 110E 110F 1114 8111 8111 8111 8111 8111 8111 8514 810F 110F
+        00FF 00FF 00FF 00FF 110E 110F 1114 8111 8111 8111 8111 8111 8111 8514 110F 110F
         00FF 00FF 110E 110F 1114 8111 8111 8111 8111 8111 8111 8D14 890F 890F 890F 8914
         110F 810F 8114 8111 8111 8111 8111 8111 8111 8111 8D14 8D0D 00FF 00FF 00FF 8110
         890F 890F 890F 890F 890F 890F 8914 8111 8111 8111 8510 00FF 00FF 00FF 00FF 890D
@@ -205,17 +205,17 @@
         8111 8510 00FF 00FF 00FF 00FF 8100 8101 8501 8500 00FF 00FF 00FF 00FF 8110 8111
         8111 8510 00FF 00FF 00FF 00FF 1120 1121 1521 1520 00FF 00FF 00FF 00FF 8110 8111
         8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
-        8111 8514 810F 110F 110F 150E 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
-        890F 890F 890F 890F 8B36 8D0D 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        8111 8739 8338 8338 832F 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        890F 8D0D 00FF 00FF 8337 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
         9440 C40C 00FF 00FF 8337 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
         9460 D42C 00FF 08FF 8337 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
-        9C60 DC2C 00FF 00FF 82B8 00FF 00FF 00FF 00FF 00FF 8100 8101 8102 8103 8104 8111
-        9C40 DC0C 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 1120 1121 1122 8123 8124 8111
-        810F 810F 810F 810F 810F 110F 110F 150E 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
-        8111 8111 8111 8111 8111 8111 8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
-        8111 8111 8111 8111 8D14 890F 890F 8D0D 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        9C60 DC2C 00FF 00FF 82B8 00FF 00FF 00FF 8100 8500 00FF 00FF 00FF 00FF 8110 8111
+        9C40 DC0C 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        810F 810F 810F 810F 810F 110F 150E 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        8111 8111 8111 8111 8111 8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        8111 8111 8111 8111 8D14 890F 8D0D 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
         8111 8111 8D14 190F 1D0E 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
-        8111 8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        8111 8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8100 8500 00FF 00FF 8110 8111
         8111 8D14 1D0E 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
       </Screen>
           <Screen X="2" Y="1">
@@ -291,10 +291,10 @@
         8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111 8111
       </Screen>
           <Screen X="1" Y="2">
-        8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8100 8101 8102 8103 8104 8111
-        8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 1120 1121 1122 8123 8124 8111
         8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
-        8111 8514 810F 110F 110F 150E 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
+        8111 8514 810F 110F 110F 150E 00FF 00FF 8100 8500 00FF 00FF 00FF 00FF 8110 8111
         8111 8111 8111 8111 8111 8510 00FF 00FF 00FF 00FF 00FF 00FF 00FF 00FF 8110 8111
         810F 890F 810F 810F 8914 8514 150E 00FF 00FF 00FF 00FF 00FF 00FF 00FF 890D 810F
         9440 C40C 00FF 00FF 190E 190F 8D0D 00FF 00FF 00FF 00FF 00FF 00FF 00FF C00C 9040
@@ -495,7 +495,7 @@
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 93 93 D2 00
-        00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+        00 00 00 00 00 00 00 00 00 92 93 93 D2 00 00 00
         93 93 93 D2 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -517,7 +517,7 @@
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 12 13 13 00 00 13 13 52 00 00
-        00 00 00 00 12 13 13 00 00 00 00 00 00 00 00 13
+        00 00 00 00 12 13 13 00 00 00 00 00 00 00 13 13
         00 00 12 13 13 00 00 00 00 00 00 00 00 00 00 00
         13 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -567,13 +567,13 @@
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 94 95 D5 D4 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-        00 00 00 13 13 52 00 00 00 00 00 00 00 00 00 00
+        00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         03 41 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         03 FF 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         03 FE 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-        03 FD 00 00 00 00 00 00 00 00 94 95 93 00 00 00
-        00 00 00 00 00 13 13 52 00 00 00 00 00 00 00 00
+        03 FD 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+        00 00 00 00 00 13 52 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 93 D2 00 00 00 00 00 00 00 00 00 00 00
@@ -654,7 +654,7 @@
       </Screen>
           <Screen X="1" Y="2">
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-        00 00 00 00 00 00 00 00 00 00 94 95 93 00 00 00
+        00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
         00 00 00 13 13 52 00 00 00 00 00 00 00 00 00 00
         00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
@@ -833,8 +833,132 @@
           <paletteblend>4E</paletteblend>
         </FX1>
       </FX1s>
-      <Enemies killcount="00" />
-      <EnemyTypes />
+      <Enemies killcount="00">
+        <Enemy>
+          <ID>DCFF</ID>
+          <X>0245</X>
+          <Y>00AA</Y>
+          <tilemap>0003</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0002</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>DCFF</ID>
+          <X>0172</X>
+          <Y>0359</Y>
+          <tilemap>0003</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0001</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>DCFF</ID>
+          <X>01AF</X>
+          <Y>01D8</Y>
+          <tilemap>0003</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0000</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>DCFF</ID>
+          <X>01A4</X>
+          <Y>0188</Y>
+          <tilemap>0000</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0001</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>D47F</ID>
+          <X>0334</X>
+          <Y>01E7</Y>
+          <tilemap>0000</tilemap>
+          <special>2800</special>
+          <gfx>0000</gfx>
+          <speed>0004</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>D47F</ID>
+          <X>016F</X>
+          <Y>0318</Y>
+          <tilemap>0000</tilemap>
+          <special>2800</special>
+          <gfx>0000</gfx>
+          <speed>0004</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>DB7F</ID>
+          <X>02AE</X>
+          <Y>005C</Y>
+          <tilemap>0000</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0000</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>DB7F</ID>
+          <X>0253</X>
+          <Y>004C</Y>
+          <tilemap>0000</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0000</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>DCFF</ID>
+          <X>0142</X>
+          <Y>0309</Y>
+          <tilemap>0003</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0001</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>DCFF</ID>
+          <X>0307</X>
+          <Y>009A</Y>
+          <tilemap>0003</tilemap>
+          <special>2000</special>
+          <gfx>0000</gfx>
+          <speed>0002</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+        <Enemy>
+          <ID>D47F</ID>
+          <X>015E</X>
+          <Y>0147</Y>
+          <tilemap>0000</tilemap>
+          <special>2800</special>
+          <gfx>0000</gfx>
+          <speed>0004</speed>
+          <speed2>0000</speed2>
+        </Enemy>
+      </Enemies>
+      <EnemyTypes>
+        <Enemy>
+          <GFX>D47F</GFX>
+          <palette>0001</palette>
+        </Enemy>
+        <Enemy>
+          <GFX>DB7F</GFX>
+          <palette>0002</palette>
+        </Enemy>
+        <Enemy>
+          <GFX>DCFF</GFX>
+          <palette>0003</palette>
+        </Enemy>
+      </EnemyTypes>
       <layer2_type>BGData</layer2_type>
       <layer2_xscroll>80</layer2_xscroll>
       <layer2_yscroll>80</layer2_yscroll>

@@ -1,6 +1,6 @@
 <Quickmet>
-  <Energy>99</Energy>
-  <MaxEnergy>199</MaxEnergy>
+  <Energy>499</Energy>
+  <MaxEnergy>499</MaxEnergy>
   <Missiles>5</Missiles>
   <MaxMissiles>10</MaxMissiles>
   <SuperMissiles>5</SuperMissiles>
@@ -9,8 +9,8 @@
   <MaxPowerBombs>10</MaxPowerBombs>
   <ReserveEnergy>0</ReserveEnergy>
   <MaxReserveEneregy>0</MaxReserveEneregy>
-  <CollectedItems>0004</CollectedItems>
-  <EquippedItems>1004</EquippedItems>
+  <CollectedItems>2004</CollectedItems>
+  <EquippedItems>3004</EquippedItems>
   <CollectedBeams>0000</CollectedBeams>
   <EquippedBeams>0000</EquippedBeams>
   <Jump>B</Jump>
