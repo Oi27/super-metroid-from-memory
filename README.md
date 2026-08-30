@@ -1,6 +1,12 @@
 # super metroid from memory
 super metroid recreated from memory
 
+This project uses the SMART editor: https://edit-sm.art/download.html
+
+SMART guides:
+- https://begrimed.com/tmp/smmm2tmp/chapter0.html
+- https://wiki.metroidconstruction.com/doku.php?id=sm:editor_utility_guides:smart
+
 ## Guidelines
 
 1. Do not expose yourself to vanilla Super Metroid (playing, watching streams, map rando, etc.) while contributing to this project, insofar as it is possible.
