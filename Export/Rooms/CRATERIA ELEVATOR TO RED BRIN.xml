@@ -23,7 +23,7 @@
     </Door>
     <Elevator />
     <Door>
-      <toroom area="01" index="0A" />
+      <toroom area="01" index="00" />
       <bitflag>C0</bitflag>
       <direction>02</direction>
       <tilex>6</tilex>
