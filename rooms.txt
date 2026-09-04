@@ -17,17 +17,25 @@ old mb room
 
 === yuriks
 
-- Crateria Tube (right of Landing Site)
-- Three Green Kihunters
-- Crateria Elevator to Red Brinstar
-- Red Brinstar Elevator to Crateria
-
+- Crateria:
+  - Crateria Tube (right of Landing Site)
+  - Three Green Kihunters
+  - Crateria Elevator to Red Brinstar
+- Brinstar:
+  - Red Brinstar Elevator to Crateria
+- Norfair:
+  - Pre-Cathedral
 
 === artee
 
-- Landing Site Power Bomb Room
-- Hallway to 230 missiles
-- 230 Missiles
+- Crateria
+  - Landing Site Power Bomb Room
+  - Hallway to 230 missiles
+  - 230 Missiles
+- Brinstar
+  - Vileplume Power Bombs
+- Norfair
+  - Business Center
 
 === oi
 
@@ -36,3 +44,6 @@ old mb room
 - Pointless Elbow
 - Kago Shaft
 
+=== Cera
+
+- Climb Supers?
