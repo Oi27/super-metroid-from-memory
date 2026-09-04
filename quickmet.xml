@@ -1,21 +1,20 @@
 <Quickmet>
-  <Energy>99</Energy>
-  <MaxEnergy>199</MaxEnergy>
-  <Missiles>5</Missiles>
-  <MaxMissiles>10</MaxMissiles>
-  <SuperMissiles>5</SuperMissiles>
-  <MaxSuperMissiles>10</MaxSuperMissiles>
-  <PowerBombs>5</PowerBombs>
-  <MaxPowerBombs>10</MaxPowerBombs>
-  <ReserveEnergy>0</ReserveEnergy>
-  <MaxReserveEneregy>0</MaxReserveEneregy>
-  <CollectedItems>0004</CollectedItems>
-  <EquippedItems>1004</EquippedItems>
-  <CollectedBeams>0000</CollectedBeams>
-  <EquippedBeams>0000</EquippedBeams>
-  <Jump>B</Jump>
-  <Run>Y</Run>
-  <ItemCancel>A</ItemCancel>
+  <Energy>399</Energy>
+  <MaxEnergy>399</MaxEnergy>
+  <Missiles>50</Missiles>
+  <MaxMissiles>50</MaxMissiles>
+  <SuperMissiles>50</SuperMissiles>
+  <MaxSuperMissiles>50</MaxSuperMissiles>
+  <PowerBombs>50</PowerBombs>
+  <MaxPowerBombs>50</MaxPowerBombs>
+  <ReserveEnergy>1</ReserveEnergy>
+  <MaxReserveEneregy>400</MaxReserveEneregy>
+  <CollectedItems>FFFF</CollectedItems>
+  <EquippedItems>FFFF</EquippedItems>
+  <CollectedBeams>FFFF</CollectedBeams>
+  <EquippedBeams>500B</EquippedBeams>
+  <ItemCancel>Select</ItemCancel>
+  <ItemSelect>Y</ItemSelect>
   <MoonWalk>true</MoonWalk>
   <AutoCancelItem>false</AutoCancelItem>
   <AreaMap0>00</AreaMap0>
